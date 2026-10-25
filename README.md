@@ -1,5 +1,7 @@
 # WellDesty — Fresh Candidate Applications Package
 
-A standalone, from-scratch React + FastAPI implementation of the My Applications workflow. The source package includes separate keyword search, job location and job category filters, user-owned application records, secure resume downloads, and individual/bulk resume deletion that retains application details.
+This repository is the clean starting point for the from-scratch candidate applications implementation. It is currently a placeholder README; the frontend/backend source package has not been uploaded to this repository yet.
 
-The deployable site has not been deployed. See the bundled ZIP package for the complete frontend and backend source.
+The downloadable ZIP provided separately contains the fresh React + FastAPI project, including sign-in/register, user-scoped My Applications, separate keyword/location/category filters, authenticated resume downloads, and single/bulk resume-file deletion while retaining application details.
+
+No deployment has been performed. The project is not a live website yet.
